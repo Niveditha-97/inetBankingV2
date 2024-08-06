@@ -1,0 +1,39 @@
+2024-07-10 16:34:26 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 16:34:26 INFO  TC_LoginTest_001:26 - username entered
+2024-07-10 16:34:27 DEBUG TC_LoginTest_001:28 - password entered
+2024-07-10 16:34:29 INFO  TC_LoginTest_001:33 - Success: We are in correct page
+2024-07-10 16:35:08 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 16:35:17 INFO  TC_LoginTest_001:26 - username entered
+2024-07-10 16:35:17 DEBUG TC_LoginTest_001:28 - password entered
+2024-07-10 16:35:20 INFO  TC_LoginTest_001:33 - Success: We are in correct page
+2024-07-10 17:10:23 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 17:10:23 INFO  TC_LoginTest_001:26 - username entered
+2024-07-10 17:10:23 DEBUG TC_LoginTest_001:28 - password entered
+2024-07-10 17:10:27 INFO  TC_LoginTest_001:33 - Success: We are in correct page
+2024-07-10 19:40:01 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 19:40:34 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 19:47:17 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 19:49:38 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 19:52:59 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 19:56:54 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 19:58:34 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 19:59:50 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 20:01:56 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 20:19:18 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 20:19:21 INFO  TC_LoginTest_001:27 - username entered
+2024-07-10 20:19:21 DEBUG TC_LoginTest_001:29 - password entered
+2024-07-10 20:19:27 INFO  TC_LoginTest_001:34 - Success: We are in correct page
+2024-07-10 20:20:32 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 20:20:40 INFO  TC_LoginTest_001:27 - username entered
+2024-07-10 20:21:08 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 20:21:12 INFO  TC_LoginTest_001:27 - username entered
+2024-07-10 20:21:12 DEBUG TC_LoginTest_001:29 - password entered
+2024-07-10 20:21:15 INFO  TC_LoginTest_001:34 - Success: We are in correct page
+2024-07-10 21:15:02 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 21:15:06 INFO  TC_LoginTest_001:27 - username entered
+2024-07-10 21:15:06 DEBUG TC_LoginTest_001:29 - password entered
+2024-07-10 21:15:10 INFO  TC_LoginTest_001:34 - Success: We are in correct page
+2024-07-10 22:33:10 DEBUG TC_LoginTest_001:23 - Application got opened
+2024-07-10 22:33:13 INFO  TC_LoginTest_001:27 - username entered
+2024-07-10 22:33:13 DEBUG TC_LoginTest_001:29 - password entered
+2024-07-10 22:33:20 INFO  TC_LoginTest_001:34 - Success: We are in correct page
